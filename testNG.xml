@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Suite" preserve-order="true" parallel="classes" thread-count="1">
+
+<listeners>
+<!--  <listener class-name="com.test.automation.uiAutomation.customListner.Listener"></listener>  -->
+<listener class-name="test.automation.uiAutomation.customListner.RetryListener"></listener>
+</listeners>
+
+<test name="TC001_VerifyProjects">
+<classes>
+<class name="test.automation.uiAutomation.Projects.TC001_VerifyProjects"></class>
+
+</classes>
+</test>
+
+<test name="TC001_VerifyDataClients">
+<classes>
+<class name="test.automation.uiAutomation.DataClients.TC001_VerifyDataClients"></class>
+
+</classes>
+</test>
+
+<test name="TC001_VerifyDataTransfers">
+<classes>
+<class name="test.automation.uiAutomation.DataTransfers.TC001_VerifyDataTransfers"></class>
+</classes>
+</test>
+
+<test name="TC002_VerifyContainers">
+<classes>
+<class name="test.automation.uiAutomation.DataTransfers.TC002_VerifyContainers"></class>
+</classes>
+</test>
+
+</suite>

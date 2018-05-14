@@ -1,0 +1,357 @@
+2017-06-22 13:28:03 INFO  TestBase:122 - navigating to :-https://mtpctscid091.consilio.com/eels-ui/v1/#/
+2017-06-22 13:28:03 INFO  TestBase:30 - =======started verifyProject Test===========
+2017-06-22 13:30:03 INFO  TestBase:122 - navigating to :-http://mlvdwsrv01.consilio.com:8089/#/
+2017-06-22 13:30:04 INFO  TestBase:26 - =======started verifyProject Test===========
+2017-06-22 13:30:04 INFO  ProjectsPage:45 - clicked on Projectlist link and object is:-[[ChromeDriver: chrome on XP (3f529b49077e7cfff88d2bfc6ebad04c)] -> css selector: #projectsToolbar > div:nth-child(1) > button:nth-child(3)]
+2017-06-22 13:30:04 INFO  ProjectsPage:47 - clicked on Projectsearch box and object is:-[[ChromeDriver: chrome on XP (3f529b49077e7cfff88d2bfc6ebad04c)] -> css selector: #project-search]
+2017-06-22 13:30:04 INFO  ProjectsPage:49 - clear  Projectsearch box and object is:-[[ChromeDriver: chrome on XP (3f529b49077e7cfff88d2bfc6ebad04c)] -> css selector: #project-search]
+2017-06-22 13:30:04 INFO  ProjectsPage:51 - Enter project name on Projectsearch box and object is:-[[ChromeDriver: chrome on XP (3f529b49077e7cfff88d2bfc6ebad04c)] -> css selector: #project-search]
+2017-06-22 13:30:07 INFO  ProjectsPage:53 - Select entered project and object is:-[[ChromeDriver: chrome on XP (3f529b49077e7cfff88d2bfc6ebad04c)] -> css selector: #project-search]
+2017-06-22 13:30:08 INFO  TestBase:31 - =======Finished verifyProject Test===========
+2017-06-22 13:30:09 INFO  TestBase:258 - browser closed
+2017-06-22 13:30:11 INFO  TestBase:122 - navigating to :-http://mlvdwsrv01.consilio.com:8089/#/
+2017-06-22 13:30:12 INFO  TestBase:26 - =======started verifyDataClients Test===========
+2017-06-22 13:30:12 INFO  DataClientsPage:65 - clicked on Dataclientlistarrow link and object is:-[[ChromeDriver: chrome on XP (6fc388e18f81c799a83a6ce497dff16a)] -> css selector: #dataClientsToolbar > div > button > md-icon]
+2017-06-22 13:30:12 INFO  DataClientsPage:67 - clicked on Dataclientearch box and object is:-[[ChromeDriver: chrome on XP (6fc388e18f81c799a83a6ce497dff16a)] -> css selector: #data-client-search]
+2017-06-22 13:30:13 INFO  DataClientsPage:69 - clear  Dataclientsearch box and object is:-[[ChromeDriver: chrome on XP (6fc388e18f81c799a83a6ce497dff16a)] -> css selector: #data-client-search]
+2017-06-22 13:30:13 INFO  DataClientsPage:71 - Enter Dataclientname on Projectsearch box and object is:-[[ChromeDriver: chrome on XP (6fc388e18f81c799a83a6ce497dff16a)] -> css selector: #data-client-search]
+2017-06-22 13:30:13 INFO  DataClientsPage:73 - Select entered Dataclientand object is:-[[ChromeDriver: chrome on XP (6fc388e18f81c799a83a6ce497dff16a)] -> css selector: #data-client-search]
+2017-06-22 13:30:13 INFO  TestBase:32 - =======Finished verifyDataClients Test===========
+2017-06-22 13:30:14 INFO  TestBase:258 - browser closed
+2017-06-22 13:30:16 INFO  TestBase:122 - navigating to :-http://mlvdwsrv01.consilio.com:8089/#/
+2017-06-22 13:30:17 INFO  TestBase:26 - =======started verifyDataTransfers Test===========
+2017-06-22 13:30:27 INFO  DataTransfersPage:64 - clicked on DataTransferlist  and object is:-Proxy element for: DefaultElementLocator 'By.cssSelector: body > div.layout-row.flex > md-sidenav > div > md-toolbar:nth-child(3) > div > button > md-icon'
+2017-06-22 13:30:27 INFO  DataTransfersPage:66 - clicked on DataTransfer box and object is:-[[ChromeDriver: chrome on XP (86fa54e795853484f186ece9eff99be3)] -> css selector: #data-transfer-search]
+2017-06-22 13:30:27 INFO  DataTransfersPage:68 - clear  DataTransfer box and object is:-[[ChromeDriver: chrome on XP (86fa54e795853484f186ece9eff99be3)] -> css selector: #data-transfer-search]
+2017-06-22 13:30:27 INFO  DataTransfersPage:70 - Enter DataTransfer name on DataTransfersearch box and object is:-[[ChromeDriver: chrome on XP (86fa54e795853484f186ece9eff99be3)] -> css selector: #data-transfer-search]
+2017-06-22 13:30:28 INFO  DataTransfersPage:72 - Select entered DataTransfer and object is:-[[ChromeDriver: chrome on XP (86fa54e795853484f186ece9eff99be3)] -> css selector: body > div.layout-row.flex > md-sidenav > div > md-content > md-list > md-virtual-repeat-container > div > div.md-virtual-repeat-offsetter > md-list-item:nth-child(1) > div > a]
+2017-06-22 13:30:29 INFO  TestBase:30 - =======Finished verifyDataTransfers  Test===========
+2017-06-22 13:30:30 INFO  TestBase:258 - browser closed
+2017-06-22 13:30:32 INFO  TestBase:122 - navigating to :-http://mlvdwsrv01.consilio.com:8089/#/
+2017-06-22 13:30:33 INFO  TestBase:25 - =======started VerifyContainers Test===========
+2017-06-22 13:30:43 INFO  DataTransfersPage:64 - clicked on DataTransferlist  and object is:-Proxy element for: DefaultElementLocator 'By.cssSelector: body > div.layout-row.flex > md-sidenav > div > md-toolbar:nth-child(3) > div > button > md-icon'
+2017-06-22 13:30:43 INFO  DataTransfersPage:66 - clicked on DataTransfer box and object is:-[[ChromeDriver: chrome on XP (548b2fc7addc317ee4a7714be01af0c9)] -> css selector: #data-transfer-search]
+2017-06-22 13:30:43 INFO  DataTransfersPage:68 - clear  DataTransfer box and object is:-[[ChromeDriver: chrome on XP (548b2fc7addc317ee4a7714be01af0c9)] -> css selector: #data-transfer-search]
+2017-06-22 13:30:43 INFO  DataTransfersPage:70 - Enter DataTransfer name on DataTransfersearch box and object is:-[[ChromeDriver: chrome on XP (548b2fc7addc317ee4a7714be01af0c9)] -> css selector: #data-transfer-search]
+2017-06-22 13:30:44 INFO  DataTransfersPage:72 - Select entered DataTransfer and object is:-[[ChromeDriver: chrome on XP (548b2fc7addc317ee4a7714be01af0c9)] -> css selector: body > div.layout-row.flex > md-sidenav > div > md-content > md-list > md-virtual-repeat-container > div > div.md-virtual-repeat-offsetter > md-list-item:nth-child(1) > div > a]
+2017-06-22 13:30:45 INFO  TestBase:29 - =======Finished VerifyContainers  Test===========
+2017-06-22 13:30:46 INFO  TestBase:258 - browser closed
+2018-02-06 13:11:04 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 13:11:08 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-06 13:11:10 INFO  TestBase:258 - browser closed
+2018-02-06 13:12:53 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 13:12:58 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-06 13:14:02 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 13:14:07 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-06 13:14:54 INFO  TestBase:258 - browser closed
+2018-02-06 13:22:58 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 13:23:02 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-06 13:23:04 INFO  TestBase:258 - browser closed
+2018-02-06 14:29:33 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 14:29:37 INFO  TestBase:26 - =======started verifyDataClients Test===========
+2018-02-06 14:29:38 INFO  TestBase:258 - browser closed
+2018-02-06 14:41:21 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 14:41:25 INFO  TestBase:26 - =======started verifyDataClients Test===========
+2018-02-06 14:41:26 INFO  TestBase:258 - browser closed
+2018-02-06 14:52:05 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 14:52:09 INFO  TestBase:26 - =======started verifyDataClients Test===========
+2018-02-06 14:52:21 INFO  TestBase:258 - browser closed
+2018-02-06 14:53:31 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 14:53:35 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-06 14:53:47 INFO  TestBase:258 - browser closed
+2018-02-06 14:55:04 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 14:55:08 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-06 14:55:08 INFO  TestBase:30 - =======Finished verifying the presence of all the tabs===========
+2018-02-06 14:55:09 INFO  TestBase:258 - browser closed
+2018-02-06 15:44:02 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 15:44:06 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-06 15:44:07 INFO  TestBase:28 - =======Finished searching for the DataClient===========
+2018-02-06 15:44:08 INFO  TestBase:258 - browser closed
+2018-02-06 15:50:18 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 15:50:22 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-06 15:50:24 INFO  TestBase:28 - =======Finished searching for the DataClient===========
+2018-02-06 15:50:25 INFO  TestBase:258 - browser closed
+2018-02-06 15:51:12 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-06 15:51:16 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-06 15:51:18 INFO  TestBase:28 - =======Finished searching for the DataClient===========
+2018-02-06 15:51:19 INFO  TestBase:258 - browser closed
+2018-02-08 12:27:10 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-08 12:27:16 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-08 12:27:25 INFO  TestBase:28 - =======Finished searching for the DataClient===========
+2018-02-08 12:27:25 INFO  TestBase:258 - browser closed
+2018-02-08 12:42:12 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-08 12:42:17 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-08 12:42:21 INFO  TestBase:258 - browser closed
+2018-02-08 12:46:01 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-08 12:46:06 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-08 12:46:08 INFO  TestBase:28 - =======Finished searching for the DataClient===========
+2018-02-08 12:46:09 INFO  TestBase:258 - browser closed
+2018-02-08 12:48:46 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-08 12:48:50 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-08 12:48:51 INFO  TestBase:30 - =======Finished verifying the presence of all the tabs===========
+2018-02-08 12:48:51 INFO  TestBase:258 - browser closed
+2018-02-08 12:49:35 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-08 12:49:39 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-08 12:49:41 INFO  TestBase:28 - =======Finished searching for the DataClient===========
+2018-02-08 12:49:42 INFO  TestBase:258 - browser closed
+2018-02-08 13:29:19 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-08 13:29:25 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-08 13:29:33 INFO  TestBase:31 - =======Finished verifying the DataClient details===========
+2018-02-08 13:29:34 INFO  TestBase:258 - browser closed
+2018-02-08 13:31:38 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-08 13:31:48 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-08 13:31:50 INFO  TestBase:31 - =======Finished verifying the DataClient details===========
+2018-02-08 13:31:51 INFO  TestBase:258 - browser closed
+2018-02-15 20:47:49 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-15 20:47:50 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-15 20:49:19 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-15 20:49:24 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-15 20:49:32 INFO  TestBase:31 - =======Finished verifying the DataClient details===========
+2018-02-15 20:49:33 INFO  TestBase:258 - browser closed
+2018-02-15 20:52:52 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-15 20:52:57 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-15 20:52:58 INFO  TestBase:30 - =======Finished verifying the presence of all the tabs===========
+2018-02-15 20:52:59 INFO  TestBase:258 - browser closed
+2018-02-15 21:57:02 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-15 21:58:39 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-15 21:58:43 INFO  TestBase:25 - =======started verifying the Projects Assigned ===========
+2018-02-15 21:58:45 INFO  TestBase:31 - =======Finished verifying the Projects Assigned===========
+2018-02-15 21:58:46 INFO  TestBase:258 - browser closed
+2018-02-15 22:25:40 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-15 22:25:44 INFO  TestBase:25 - =======started verifying the Projects Assigned ===========
+2018-02-15 22:25:52 INFO  TestBase:31 - =======Finished verifying the Projects Assigned===========
+2018-02-15 22:25:53 INFO  TestBase:258 - browser closed
+2018-02-16 12:16:34 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 12:16:39 INFO  TestBase:26 - =======started verifyProject Test===========
+2018-02-16 12:16:51 INFO  TestBase:258 - browser closed
+2018-02-16 12:19:56 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 12:20:02 INFO  TestBase:25 - =======started verifying the Projects Assigned ===========
+2018-02-16 12:20:03 INFO  TestBase:31 - =======Finished verifying the Projects Assigned===========
+2018-02-16 12:20:04 INFO  TestBase:258 - browser closed
+2018-02-16 12:20:29 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 12:20:34 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-16 12:20:36 INFO  TestBase:31 - =======Finished verifying the DataClient details===========
+2018-02-16 12:20:36 INFO  TestBase:258 - browser closed
+2018-02-16 19:22:16 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 19:22:18 INFO  TestBase:25 - =======started verifying the Projects Assigned ===========
+2018-02-16 19:23:15 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 19:23:20 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-16 19:23:20 INFO  TestBase:30 - =======Finished verifying the presence of all the tabs===========
+2018-02-16 19:23:21 INFO  TestBase:258 - browser closed
+2018-02-16 19:23:48 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 19:23:53 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-16 19:24:02 INFO  TestBase:258 - browser closed
+2018-02-16 19:24:53 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 19:24:57 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-16 19:24:59 INFO  TestBase:28 - =======Finished searching for the DataClient===========
+2018-02-16 19:25:00 INFO  TestBase:258 - browser closed
+2018-02-16 19:25:17 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 19:25:21 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-16 19:25:23 INFO  TestBase:31 - =======Finished verifying the DataClient details===========
+2018-02-16 19:25:24 INFO  TestBase:258 - browser closed
+2018-02-16 19:25:39 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 19:25:43 INFO  TestBase:25 - =======started verifying the Projects Assigned ===========
+2018-02-16 19:25:45 INFO  TestBase:31 - =======Finished verifying the Projects Assigned===========
+2018-02-16 19:25:46 INFO  TestBase:258 - browser closed
+2018-02-16 20:13:40 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 20:13:45 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-16 20:13:53 INFO  TestBase:31 - =======Finished verifying the DataClient details===========
+2018-02-16 20:13:54 INFO  TestBase:258 - browser closed
+2018-02-16 20:15:05 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-16 20:15:10 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-16 20:15:11 INFO  TestBase:30 - =======Finished verifying the presence of all the tabs===========
+2018-02-16 20:15:12 INFO  TestBase:258 - browser closed
+2018-02-22 20:52:36 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-22 20:52:44 INFO  TestBase:25 - =======started editing the DataClient ===========
+2018-02-22 20:52:53 INFO  TestBase:32 - =======Finished editing the DataClient ===========
+2018-02-22 20:52:54 INFO  TestBase:258 - browser closed
+2018-02-22 21:03:18 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-22 21:03:23 INFO  TestBase:25 - =======started editing the DataClient ===========
+2018-02-22 21:03:26 INFO  TestBase:258 - browser closed
+2018-02-22 21:04:00 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-22 21:04:04 INFO  TestBase:25 - =======started editing the DataClient ===========
+2018-02-22 21:04:07 INFO  TestBase:258 - browser closed
+2018-02-22 21:13:38 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-22 21:13:43 INFO  TestBase:25 - =======started verifying the Projects Assigned ===========
+2018-02-22 21:13:45 INFO  TestBase:31 - =======Finished verifying the Projects Assigned===========
+2018-02-22 21:13:46 INFO  TestBase:258 - browser closed
+2018-02-23 10:07:17 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-23 10:07:21 INFO  TestBase:25 - =======started editing the DataClient ===========
+2018-02-23 10:07:30 INFO  TestBase:32 - =======Finished editing the DataClient ===========
+2018-02-23 10:07:31 INFO  TestBase:258 - browser closed
+2018-02-23 10:40:38 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-23 10:40:44 INFO  TestBase:25 - =======started editing the DataClient ===========
+2018-02-23 10:40:47 INFO  TestBase:258 - browser closed
+2018-02-23 10:53:17 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-23 10:53:21 INFO  TestBase:25 - =======started editing the DataClient ===========
+2018-02-23 10:53:24 INFO  TestBase:258 - browser closed
+2018-02-23 10:58:10 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-23 10:58:18 INFO  TestBase:25 - =======started editing the DataClient ===========
+2018-02-23 10:58:21 INFO  TestBase:258 - browser closed
+2018-02-23 10:59:55 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-23 10:59:59 INFO  TestBase:25 - =======started editing the DataClient ===========
+2018-02-23 11:00:02 INFO  TestBase:33 - =======Finished editing the DataClient ===========
+2018-02-23 11:00:03 INFO  TestBase:258 - browser closed
+2018-02-27 12:26:25 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-27 12:26:30 INFO  TestBase:25 - =======started verifying the presence of tabs===========
+2018-02-27 12:26:31 INFO  TestBase:30 - =======Finished verifying the presence of all the tabs===========
+2018-02-27 12:26:31 INFO  TestBase:258 - browser closed
+2018-02-27 12:26:55 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-27 12:26:59 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-27 12:27:03 INFO  TestBase:258 - browser closed
+2018-02-27 12:27:58 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-27 12:28:03 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-27 12:28:05 INFO  TestBase:31 - =======Finished verifying the DataClient details===========
+2018-02-27 12:28:05 INFO  TestBase:258 - browser closed
+2018-02-27 12:28:20 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-27 12:28:26 INFO  TestBase:25 - =======started verifying the Projects Assigned ===========
+2018-02-27 12:28:27 INFO  TestBase:31 - =======Finished verifying the Projects Assigned===========
+2018-02-27 12:28:28 INFO  TestBase:258 - browser closed
+2018-02-27 12:28:40 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-27 12:28:45 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-27 12:28:46 INFO  TestBase:28 - =======Finished searching for the DataClient===========
+2018-02-27 12:28:47 INFO  TestBase:258 - browser closed
+2018-02-27 12:28:56 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-27 12:29:01 INFO  TestBase:25 - =======started editing the DataClient ===========
+2018-02-27 12:29:03 INFO  TestBase:32 - =======Finished editing the DataClient ===========
+2018-02-27 12:29:04 INFO  TestBase:258 - browser closed
+2018-02-28 19:26:39 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-28 19:26:41 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-28 19:28:40 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-28 19:28:45 INFO  TestBase:25 - =======started verifying the DataClient details===========
+2018-02-28 19:28:53 INFO  TestBase:31 - =======Finished verifying the DataClient details===========
+2018-02-28 19:28:54 INFO  TestBase:258 - browser closed
+2018-02-28 19:34:52 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-28 19:34:55 INFO  TestBase:25 - =======started searching for the DataClient===========
+2018-02-28 19:34:58 INFO  TestBase:29 - =======Finished searching for the DataClient===========
+2018-02-28 19:34:59 INFO  TestBase:258 - browser closed
+2018-02-28 19:37:18 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-28 19:37:22 INFO  TestBase:25 - =======started verifying the Projects Assigned ===========
+2018-02-28 19:37:24 INFO  TestBase:31 - =======Finished verifying the Projects Assigned===========
+2018-02-28 19:37:25 INFO  TestBase:258 - browser closed
+2018-02-28 19:38:46 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-02-28 19:38:50 INFO  TestBase:25 - =======started editing the DataClient ===========
+2018-02-28 19:38:52 INFO  TestBase:32 - =======Finished editing the DataClient ===========
+2018-02-28 19:38:53 INFO  TestBase:258 - browser closed
+2018-03-01 13:49:12 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 13:49:16 INFO  TestBase:26 - =======started verifying the presence of tabs===========
+2018-03-01 13:49:29 INFO  TestBase:258 - browser closed
+2018-03-01 13:50:36 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 13:50:40 INFO  TestBase:26 - =======started verifying the data clients assigned===========
+2018-03-01 13:50:52 INFO  TestBase:258 - browser closed
+2018-03-01 14:35:20 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 14:35:25 INFO  TestBase:31 - =======started verifying the data clients assigned===========
+2018-03-01 14:35:27 INFO  TestBase:258 - browser closed
+2018-03-01 14:38:07 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 14:38:11 INFO  TestBase:31 - =======started verifying the data clients assigned===========
+2018-03-01 14:38:12 INFO  TestBase:258 - browser closed
+2018-03-01 14:39:32 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 14:39:36 INFO  TestBase:31 - =======started verifying the data clients assigned===========
+2018-03-01 14:39:38 INFO  TestBase:258 - browser closed
+2018-03-01 14:58:43 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 14:58:47 INFO  TestBase:31 - =======started verifying the data clients assigned===========
+2018-03-01 14:58:49 INFO  TestBase:258 - browser closed
+2018-03-01 15:01:18 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:01:22 INFO  TestBase:31 - =======started verifying the data clients assigned===========
+2018-03-01 15:01:34 INFO  TestBase:258 - browser closed
+2018-03-01 15:03:05 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:03:10 INFO  TestBase:31 - =======started verifying the data clients assigned===========
+2018-03-01 15:03:12 INFO  TestBase:258 - browser closed
+2018-03-01 15:08:49 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:08:53 INFO  TestBase:31 - =======started verifying the data clients assigned===========
+2018-03-01 15:09:15 INFO  TestBase:258 - browser closed
+2018-03-01 15:14:32 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:14:36 INFO  TestBase:33 - =======started verifying the data clients assigned===========
+2018-03-01 15:18:19 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:18:23 INFO  TestBase:33 - =======started verifying the data clients assigned===========
+2018-03-01 15:18:25 INFO  TestBase:258 - browser closed
+2018-03-01 15:19:03 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:19:07 INFO  TestBase:33 - =======started verifying the data clients assigned===========
+2018-03-01 15:19:09 INFO  TestBase:258 - browser closed
+2018-03-01 15:19:39 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:19:44 INFO  TestBase:33 - =======started verifying the data clients assigned===========
+2018-03-01 15:19:44 INFO  TestBase:40 - =======Finished verifying the data clients assigned===========
+2018-03-01 15:19:45 INFO  TestBase:258 - browser closed
+2018-03-01 15:23:09 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:23:13 INFO  TestBase:33 - =======started verifying the data clients assigned===========
+2018-03-01 15:23:15 INFO  TestBase:258 - browser closed
+2018-03-01 15:26:10 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:26:15 INFO  TestBase:33 - =======started verifying the data clients assigned===========
+2018-03-01 15:26:16 INFO  TestBase:258 - browser closed
+2018-03-01 15:26:28 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:26:32 INFO  TestBase:33 - =======started verifying the data clients assigned===========
+2018-03-01 15:26:34 INFO  TestBase:258 - browser closed
+2018-03-01 15:28:23 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:28:27 INFO  TestBase:33 - =======started verifying the data clients assigned===========
+2018-03-01 15:28:28 INFO  TestBase:42 - =======Finished verifying the data clients assigned===========
+2018-03-01 15:28:28 INFO  TestBase:258 - browser closed
+2018-03-01 15:28:42 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:28:46 INFO  TestBase:33 - =======started verifying the data clients assigned===========
+2018-03-01 15:28:46 INFO  TestBase:42 - =======Finished verifying the data clients assigned===========
+2018-03-01 15:28:47 INFO  TestBase:258 - browser closed
+2018-03-01 15:30:42 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:30:47 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 15:31:03 INFO  TestBase:258 - browser closed
+2018-03-01 15:33:32 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:33:36 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 15:33:53 INFO  TestBase:258 - browser closed
+2018-03-01 15:42:49 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 15:42:53 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 15:43:11 INFO  TestBase:258 - browser closed
+2018-03-01 18:39:06 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 18:39:10 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 18:49:01 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 18:49:05 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 18:49:06 INFO  TestBase:258 - browser closed
+2018-03-01 18:50:41 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 18:50:45 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 18:51:01 INFO  TestBase:258 - browser closed
+2018-03-01 18:53:13 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 18:53:17 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 18:54:08 INFO  TestBase:45 - =======Finished verifying the data clients assigned===========
+2018-03-01 18:54:08 INFO  TestBase:258 - browser closed
+2018-03-01 18:54:39 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 18:54:43 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 18:55:23 INFO  TestBase:45 - =======Finished verifying the data clients assigned===========
+2018-03-01 18:55:24 INFO  TestBase:258 - browser closed
+2018-03-01 18:56:13 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 18:56:18 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 18:56:49 INFO  TestBase:258 - browser closed
+2018-03-01 19:20:24 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 19:20:28 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 19:21:00 INFO  TestBase:258 - browser closed
+2018-03-01 19:28:20 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 19:28:24 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 19:28:56 INFO  TestBase:258 - browser closed
+2018-03-01 19:29:51 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 19:29:56 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 19:30:27 INFO  TestBase:258 - browser closed
+2018-03-01 19:35:21 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 19:35:27 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 19:35:57 INFO  TestBase:44 - =======Finished verifying the data clients assigned===========
+2018-03-01 19:35:58 INFO  TestBase:258 - browser closed
+2018-03-01 19:38:45 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 19:38:49 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 19:39:20 INFO  TestBase:258 - browser closed
+2018-03-01 19:40:35 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 19:40:42 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 19:41:13 INFO  TestBase:258 - browser closed
+2018-03-01 19:43:49 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 19:43:54 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 19:44:25 INFO  TestBase:258 - browser closed
+2018-03-01 19:48:08 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 19:48:13 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 19:48:44 INFO  TestBase:258 - browser closed
+2018-03-01 19:50:08 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 19:50:15 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 19:50:57 INFO  TestBase:258 - browser closed
+2018-03-01 19:59:24 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 19:59:29 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 20:00:10 INFO  TestBase:258 - browser closed
+2018-03-01 20:01:06 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 20:01:10 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 20:01:52 INFO  TestBase:258 - browser closed
+2018-03-01 20:05:26 INFO  TestBase:122 - navigating to :-http://mtpctscid303
+2018-03-01 20:05:32 INFO  TestBase:34 - =======started verifying the data clients assigned===========
+2018-03-01 20:06:13 INFO  TestBase:45 - =======Finished verifying the data clients assigned===========
+2018-03-01 20:06:13 INFO  TestBase:258 - browser closed
